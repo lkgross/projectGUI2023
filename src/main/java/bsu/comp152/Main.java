@@ -5,6 +5,15 @@ import javafx.scene.Scene;
 import javafx.scene.control.Label;
 import javafx.stage.Stage;
 
+/**
+ * A class for Project 4, COMP 152
+ *
+ * Starter code from Tony Gaddis, "Starting Out with Java"
+ *
+ * Modified by: Laura K. Gross, laura.gross@bridgew.edu, 3/2023
+ *
+ * Completed by: student name, student email, date of completion
+ */
 public class Main extends Application{
     public static void main(String[] args) {
         launch(args);
